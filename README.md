@@ -1,3 +1,5 @@
 # vaishnavi-shetty
 
-heyyyy ....
+this is my first git repository
+<br>
+author-vaishnavi
